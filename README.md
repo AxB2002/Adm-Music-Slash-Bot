@@ -34,7 +34,7 @@
 4. Discord Bot CLIENT_ID: **[Link](https://discord.com/developers/applications)**
 
 ## Setting
-1. Run `git clone https://github.com/HELLSNAKES/Music-Slash-Bot.git`
+1. Run `git clone https://github.com/AxB2002/Music-Slash-Bot.git`
 2. Run `cd music-slash-bot`
 3. Run `npm i` to install the modules required
 4. Rename `.env_example` to `.env`
@@ -87,8 +87,7 @@ Thanks goes to these wonderful people
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/AxB2002"><img src="https://avatars.githubusercontent.com/u/73497573?v=4" width="100px;" alt=""/><br /><sub><b>AxB2002</b></sub></a><br /><a href="https://github.com/HELLSNAKES/Music-Slash-Bot/commits?author=HELLSNAKES" title="Code">💻</a> <a href="#example-AxB2002" title="Examples">💡</a> <a href="https://github.com/HELLSNAKES/Music-Slash-Bot/commits?author=HELLSNAKES" title="Tests">⚠️</a> <a href="#tutorial-AxB2002" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://github.com/shellawa"><img src="https://avatars.githubusercontent.com/u/69383963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>allehS</b></sub></a><br /><a href="https://github.com/HELLSNAKES/Music-Slash-Bot/commits?author=shellawa" title="Code">💻</a> <a href="#ideas-shellawa" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/HELLSNAKES/Music-Slash-Bot/commits?author=shellawa" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/AxB2002"><img src="https://avatars.githubusercontent.com/u/73497573?v=4" width="100px;" alt=""/><br /><sub><b>AxB2002</b></sub></a><br />
   </tr>
 </table>
 
