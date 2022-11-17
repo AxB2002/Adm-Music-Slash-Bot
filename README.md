@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#"><img src="https://giphy.com/gifs/the-simpsons-bart-simpson-4oMoIbIQrvCjm" width="450" alt="Music-Slash-Bot"></a>
+    <a href="#"><img src="https://imgur.com/gallery/Xi9X2zj" width="450" alt="Music-Slash-Bot"></a>
     
    🤖 Adm. Music-Slash-Bot 🤖
 </h1>
